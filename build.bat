@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --paths=./src --icon=icon.ico --add-data "img;img" app.py
